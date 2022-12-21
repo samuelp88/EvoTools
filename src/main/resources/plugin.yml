@@ -1,0 +1,10 @@
+name: EvoTools
+version: '${version}'
+main: com.samuelp88.evotools.EvoTools
+commands:
+  evogive:
+    description:  Test Plugin Description
+    usage: /<command>
+  ec:
+    description: Test Plugin Description
+    usage: /<command>
